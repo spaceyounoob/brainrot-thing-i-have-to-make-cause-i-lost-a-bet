@@ -30,7 +30,7 @@ a {
 body {
     margin: 0%;
     padding: 0%;
-    font-family: "Segoe UI", sans-serif;
+	font-family: "Comic Sans MS";
     display: flex;
     background: #DAF3FD;
     justify-content: center;
