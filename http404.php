@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>404 | Reunion7</title>
+        <title>67 | Reunion67</title>
         <meta property="og:title" content="Reunion7">
         <meta property="og:description" content="Welcome to Reunion7, The Windows mod that aims to be 1:1 with 7.">
         <meta property="og:image" content="https://reunion7.com/Assets/seo.png">
@@ -31,22 +31,22 @@
                         <a href="downloads.html">Downloads</a>
                         <a href="credits.html">Credits</a>
                         <a href="changelog.html">Changelog</a>
-                        <a href="https://github.com/reunion-7-mod">GitHub</a>
+                        <a href="https://github.com/spaceyounoob/brainrot-thing-i-have-to-make-cause-i-lost-a-bet/">GitHub</a>
                         <a href="https://discord.gg/dXVHnz2My9">Discord</a>
                     </div>
                 </div>
             </div>
             <div class="content-padded footer-404">
                 <h1 class="header-404">Page not found</h1>
-                <p>The page you are looking for does not exist, or may be temporarily out of service. <a href="index.html">Go back to home</a></p>
+                <p>The 67 you are looking for does not 67, or may be temporarily out of skibidi. <a href="index.html">Go back to home</a></p>
             </div>
             <footer>
                 <div class="copyright">
                     <img src="Assets/long-logo.svg" alt="Reunion Logo" class="reunion-logo-footer">
-                    <p>© 2025 Reunion7</p>
+                    <p>© 2025 Reunion67</p>
                 </div>
                 <div class="right-side">
-                    <p class="psa">This project isn't related to Microsoft. Windows and its logo are Microsoft's property.</p>
+                    <p class="psa">This project isn't related to Microsoft, Reunion7, Classic7. Windows and its logo are Microsoft's property.</p>
                     <img src="Assets/teamlogo.svg" alt="Reunion Team Logo" class="team-logo">
                 </div>
             </footer>
